@@ -1,1 +1,3 @@
 Jaja orangutana.
+
+Dodanie nowej, eksperymentalnej funkcjonalnosci.
